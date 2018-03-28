@@ -1,6 +1,6 @@
 <img src="data/logo.jpg" width=25% align="right" />
 
-# Baselines
+# Baselines - Bing
 
 OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
 
